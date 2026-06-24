@@ -1,0 +1,566 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.uzautomotors {
+background-color: white;
+background-image: url(https://uzautomotors.com/images/uploads/c8596f33ac4be5703326765293c00e84.png);
+background-size: auto;
+background-repeat: repeat;
+width: auto;
+height: auto;
+
+}
+
+.aa p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    font-weight: 900;
+}
+
+.card-structure {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-structure img {
+    width: 192px;
+    height: 118px;
+    border-radius: 10px;
+}
+
+.card-structure p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    font-weight: 900;
+}
+
+.card-damas {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-damas img {
+    width: 170,6666666666667px;
+    height: 128px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-damas p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-labo {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-labo img {
+    width: 200px;
+    height: 133,3333333333333px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-labo p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-cobalt {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+    float: right;
+    margin: -443px 5px;
+}
+
+.card-cobalt img {
+    width: 200px;
+    height: 141,75px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-cobalt p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-equinox {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-equinox img {
+    width: 204.8px;
+    height: 153.6px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-equinox p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-tracker {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-tracker img {
+    width: 207.272727273px;
+    height: 155.454545455px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-tracker p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-traverse {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+    float: right;
+    margin: -443px 5px;
+}
+
+.card-traverse img {
+    width: 213.333333333px;
+    height: 140px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-traverse p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-tahoe {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-tahoe img {
+    width: 238px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-tahoe p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-onix {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-onix img {
+    width: 256px;
+    height: 160.5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-onix p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-captiva {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+    float: right;
+    margin: -443px 5px;
+}
+
+.card-captiva img {
+    width: 213.333333333px;
+    height: 140px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-captiva p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.card-malibuxl {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px white;
+    text-align: center;
+    padding: 20px;
+}
+
+.card-malibuxl img {
+    width: 253px;
+    height: 144px;
+    border-radius: 10px;
+    text-align: center;
+}   
+
+.card-malibuxl p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: bold;
+    text-align: left; */
+}
+
+.byd {
+background-color: white;
+background-image: url(https://images.seeklogo.com/logo-png/54/1/byd-logo-png_seeklogo-546145.png);
+background-size: auto;
+background-repeat: repeat;
+width: auto;
+height: auto;   
+}
+
+.bb p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+.card-chazor {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-chazor img {
+    width: 253px;
+    height: 144px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-chazor p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.card-songplus {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+}
+
+.card-songplus img {
+    width: 253px;
+    height: 144px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-songplus p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.card-yuanup {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+    float: right;
+    margin: -405px 5px;
+}
+
+.card-yuanup img {
+    width: 253px;
+    height: 144px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-yuanup p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.kia {
+background-color: white;
+background-image: url(https://admin.itsnicethat.com/images/VfdmaZ3W0_Yj65QDMRPX-2znik8=/198086/width-1440/kia_rebrand_graphic_design_itsnicethat2.jpg);
+background-size: auto;
+background-repeat: repeat;
+width: auto;
+height: auto;   
+}
+
+.cc p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+.card-seltos {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-seltos img {
+    width: 187.714285714px;
+    height: 188.142857143px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-seltos p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.card-k5 {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+}
+
+.card-k5 img {
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-k5 p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.card-sorento {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+    float: right;
+    margin: -405px 5px;
+}
+
+.card-sorento img {
+    width: 253px;
+    height: 144px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-sorento p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.card-sportage {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.card-sportage img {
+    width: 266.666666667px;
+    height: 187.666666667px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-sportage p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.card-sonet {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(100, 100, 100);
+    text-align: center;
+    padding: 20px;
+}
+
+.card-sonet img {
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-sonet p {
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
